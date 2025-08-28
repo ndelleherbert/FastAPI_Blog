@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FastAPI_Blog", "FastAPI_Blog.pyproj", "{10B38B01-EF35-43F6-B8CD-5AB07CFC1557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B38B01-EF35-43F6-B8CD-5AB07CFC1557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B38B01-EF35-43F6-B8CD-5AB07CFC1557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {208338CB-28CD-4E0F-A597-DCEC505801FC}
+	EndGlobalSection
+EndGlobal
